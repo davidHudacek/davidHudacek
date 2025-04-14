@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm David
 
-<!--
-**davidHudacek/davidHudacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught IT enthusiast focused on **networking** and **cybersecurity**, working towards becoming a **penetration tester**.  
+I enjoy exploring security concepts, learning through hands-on projects, and building my knowledge of systems and networks.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Python** – scripting, automation, tools
+- **Networking** – fundamentals, security, VPNs
+- **Web** – HTML & CSS (basic freelance work in the past)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Ethical hacking & penetration testing (Kali Linux, MITM, Wi-Fi security, etc.)
+- Linux hardening and secure server setups
+- Preparing for **CompTIA Network+** and planning to pursue **OSCP**
+
+### 🎯 Goals
+- Master key pentesting techniques and tools
+- Build a personal security toolkit
+- Contribute to open-source security projects
+- Share knowledge and document my journey
+
+Feel free to connect or check out my projects. Always happy to learn from others! 🤝
